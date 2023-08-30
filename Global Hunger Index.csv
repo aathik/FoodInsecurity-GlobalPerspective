@@ -1,0 +1,54 @@
+Country,2000,2006,2012,2021,Continent
+Tunisia,10.3,7.8,7,6,Africa
+Algeria,14.5,11.7,8.9,6.9,Africa
+Morocco,15.5,17.5,9.6,8.8,Africa
+Cabo Verde,15.4,11.9,12.3,10.8,Africa
+Mauritius,15.2,14,13,12.2,Africa
+Democratic Republic of the Congo,50.6,45.3,42.3,39,Africa
+Chad,50.8,51.2,45.7,39.6,Africa
+Central African Republic,48.9,48,40.5,43,Africa
+"Burundi, Comoros, South Sudan, and Syrian Arab Republic*",-,-,-,49.9,Africa
+Somalia,58.1,57.9,65.1,50.8,Africa
+China,13.3,9,<5,<5,Asia
+Kuwait,<5,<5,<5,<5,Asia
+Turkey,10.2,6.5,5,<5,Asia
+Uzbekistan,24.3,16.6,9.5,5.9,Asia
+Mongolia,30.2,23.4,12.8,6.1,Asia
+Korea (DPR),39.5,33.1,29.1,25.2,Asia
+India,38.8,37.4,28.8,27.5,Asia
+Afghanistan,50.9,42.7,34.3,28.3,Asia
+Timor-Leste,-,46.1,36.2,32.4,Asia
+Yemen,41,38.8,38.4,45.1,Asia
+Belarus,<5,<5,<5,<5,Europe
+Bosnia & Herzegovina,9.3,6.7,<5,<5,Europe
+Croatia,<5,<5,<5,<5,Europe
+Estonia,<5,<5,<5,<5,Europe
+Latvia,5.5,<5,<5,<5,Europe
+Bulgaria,8.6,8.1,7.8,6.1,Europe
+Albania,20.7,15.9,8.8,6.2,Europe
+Russian Federation,10.1,7.1,6.4,6.2,Europe
+Ukraine,13,7.1,6.9,6.8,Europe
+Moldova (Republic of),-,-,-,9.9,Europe
+Cuba,<5,<5,<5,<5,North America
+Costa Rica,7,5.5,<5,5.3,North America
+Dominican Republic,15.1,13.2,10.2,8,North America
+Mexico,10.2,8.6,7.8,8.5,North America
+Jamaica,8.6,9,9.1,8.6,North America
+Trinidad & Tobago,11,11.3,10.8,8.9,North America
+Honduras,21.8,19.6,13.8,12.8,North America
+Nicaragua,22.3,17.4,14.9,14,North America
+Guatemala,28.4,24.6,22,19.6,North America
+Haiti,42,43.6,35.2,32.8,North America
+Fiji,9.6,9,8.1,8.6,Oceania
+Solomon Islands,20,18.2,20.2,18.8,Oceania
+Papua New Guinea,33.6,30.3,33.7,27.8,Oceania
+Brazil,11.5,7.4,5.5,<5,South America
+Chile,<5,<5,<5,<5,South America
+Uruguay,7.4,6.7,5,<5,South America
+Argentina,6.4,5.6,5.2,5.3,South America
+Paraguay,11.7,11.6,9.5,7.5,South America
+Suriname,15.1,11.4,10.4,10.4,South America
+Guyana,17.1,15.6,12.1,10.7,South America
+Bolivia (Plurinat. State of),27.7,23.3,15.6,12.7,South America
+Ecuador,19.7,18.9,12.8,14,South America
+Venezuela,14.6,11.2,7.4,22.2,South America
